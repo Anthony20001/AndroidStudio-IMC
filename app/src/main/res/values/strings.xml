@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Calculadora de IMC</string>
+    <string name="age">Edad</string>
+    <string name="height">Altura</string>
+    <string name="weight">Peso</string>
+    <string name="imc">Índice de Masa Corporal</string>
+    <string name="overweight">Sobrepeso</string>
+    <string name="normal">Normal</string>
+    <string name="thin">Delgadez</string>
+    <string name="cm">CM</string>
+    <string name="KG">KG</string>
+    <string name="load">Cargando</string>
+    <string name="empty_input">No has ingresado un valor en este campo</string>
+    <string name="select_gender">Seleccione un género</string>
+    <string name="msg_exit_app">"¿Desea Salir de la Aplicación?"</string>
+    <string name="cancel">Cancelar</string>
+    <string name="accept">Aceptar</string>
+
+    <string-array name="weight_measures">
+        <item>KG</item>
+        <item>LB</item>
+    </string-array>
+
+    <string-array name="lenght_measures">
+        <item>CM</item>
+        <item>PL</item>
+    </string-array>
+</resources>

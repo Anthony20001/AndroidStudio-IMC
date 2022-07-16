@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/btn_restore"
+        android:title=""
+        android:icon="@drawable/ic_baseline_restore_page_24"
+        android:orderInCategory="5"
+        app:showAsAction="ifRoom"/>
+
+    <item
+        android:id="@+id/btn_exit"
+        android:title=""
+        android:icon="@drawable/ic_baseline_exit_to_app_24"
+        android:orderInCategory="10"
+        app:showAsAction="ifRoom"/>
+
+</menu>
